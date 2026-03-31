@@ -1,13 +1,11 @@
 venv/
 __pycache__/
 *.pyc
+*.pyo
 .env
 *.pt
-data/*.zip
 models/food_model/train_batch*.jpg
-node_modules/
-.expo/
-dist/
+models/food_model/val_batch*.jpg
 .DS_Store
 Thumbs.db
 .vscode/
