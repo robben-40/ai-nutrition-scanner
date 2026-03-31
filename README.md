@@ -12,7 +12,8 @@ Built with React Native, FastAPI, YOLOv8, and Google Gemini
 
 ## Features
 * **Smart Camera Integration:** Custom built camera interface with gallery upload support.
-* **Dual-AI Analysis Pipeline:** * Uses a locally hosted YOLOv8 model for rapid object detection and confidence scoring.
+* **Dual-AI Analysis Pipeline:**
+  * Uses a locally hosted YOLOv8 model for rapid object detection and confidence scoring.
   * Falls back to Google Gemini 2.5 Flash for complex nutritional estimation and precise macro breakdowns.
 * **Dynamic Portion Scaling:** Instantly recalculates calories, protein, carbs, fat, and sugar based on custom gram inputs.
 * **Daily Dashboard:** Tracks daily caloric intake against customizable goals with a visual progress bar and macro grid.
